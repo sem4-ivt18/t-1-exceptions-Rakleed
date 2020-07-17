@@ -133,7 +133,7 @@ main()
 
 ![Result of indepworkinvar1-1](src/programming4-indepworkinvar1-1-result.png)
 
-### [1.2. ](https://repl.it/@Rakleed/programming4-indepworkinvar1-2)
+### [1.2. Дополнение программы дял считывания данных проверкой высказываний (assert).](https://repl.it/@Rakleed/programming4-indepworkinvar1-2)
 ```python
 """
     Автор: Моисеенко Павел, группа № 1, подгруппа № 2.

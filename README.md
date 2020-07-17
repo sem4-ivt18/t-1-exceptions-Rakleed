@@ -64,7 +64,7 @@ conn.close()
 ```
 [example.db](src/example.db)
 
-![Result of lab1](https://github.com/sem4-ivt18/t-1-exceptions-Rakleed/blob/master/src/programming4-lab1-result.png)
+![Result of lab1](src/programming4-lab1-result.png)
 
 # [Лабораторная работа № 3](https://repl.it/@Rakleed/programming4-lab3)
 ```python

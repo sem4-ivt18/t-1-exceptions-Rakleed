@@ -63,7 +63,7 @@ conn.close()
 ```
 [example.db](src/example.db)
 
-![Result of lab1](src/programming4-lab1-3-result.png)
+![Result of lab1-3](src/programming4-lab1-3-result.png)
 
 # Инвариативная самостоятельная работа № 1
 ### [1.1. Разработка программы для считывания данных из JSON-файла и их вывода в табличном виде с использованием исключений.](https://repl.it/@Rakleed/programming4-indepworkinvar1-1)
